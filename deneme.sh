@@ -2,4 +2,5 @@
 pkg install sl
 sl
 echo "termuxd.com "
-echo "merhaba git başarıyla yüklenmiş gibi görünüyor"
+echo "hello git seems to be successfully installedr /en"
+echo "merhaba git başarıyla yüklenmiş gibi görünüyor /tr"
